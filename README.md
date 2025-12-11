@@ -52,7 +52,7 @@ The system must accurately implement the following active rate policies. Note th
     - **Loyalty Discount Application:** The base rate is reduced based on the customer's loyalty tier:
 
    | Tier | Discount |
-       |---|---|
+   |---|---|
    | NONE | 0% | 
    | SILVER | 10% |
    | GOLD | 20% |
